@@ -1,6 +1,6 @@
 # Tumble
 
-A browser game inspired by Tetris Tumble XL: place tetrominoes on a rocking, zigzag base and try not to topple the tower. 1 or 2 players (hot-seat), desktop and phone. Vanilla JS, Canvas 2D, no dependencies, no build step. Design details are in [spec.md](spec.md).
+A browser game inspired by Tetris Tumble XL: place tetrominoes on a rocking, zigzag base and try not to topple the tower. 1 or 2 players (hot-seat), desktop and phone. Vanilla JS, Canvas 2D, no dependencies, no build step. Design details are in [SPECS.md](SPECS.md).
 
 ## Run
 
